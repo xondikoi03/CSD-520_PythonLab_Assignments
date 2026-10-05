@@ -1,0 +1,11 @@
+Student_ID,Name,Math,Science,English,History,Computer_Science,Total_Marks,Percentage,Grade
+STU101,Aarav Sharma,88,92,79,85,95,439,87.8,A
+STU102,Sophia Martinez,74,68,82,75,80,379,75.8,B
+STU103,Liam Chen,95,98,89,90,99,471,94.2,A+
+STU104,Emma Watson,62,58,70,65,72,327,65.4,C
+STU105,Noah Patel,81,85,88,84,90,428,85.6,A
+STU106,Olivia Brown,45,52,60,58,65,280,56.0,D
+STU107,Lucas Silva,90,87,85,88,92,442,88.4,A
+STU108,Mia Takahashi,78,82,80,79,85,404,80.8,B+
+STU109,Ethan Miller,35,42,50,48,55,230,46.0,F
+STU110,Ava Johnson,92,94,91,89,96,462,92.4,A+
